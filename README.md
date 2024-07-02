@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/impactgalaxy/impactgalaxy/blob/main/github-header-image.png"/>
+<p align="center"><img src="https://github.com/impactgalaxy/impactgalaxy/blob/main/github-header-image.png"/></p>
 <h1 align="center">Hi 👋, I'm Nur Mohammad Palash</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
